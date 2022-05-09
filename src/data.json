@@ -1,0 +1,87 @@
+[
+  {
+    "name": "메뉴1",
+    "menuGroup": "메인메뉴",
+    "price": 8000
+  },
+  {
+    "name": "메뉴2",
+    "menuGroup": "메인메뉴",
+    "price": 9000
+  },
+  {
+    "name": "메뉴3",
+    "menuGroup": "메인메뉴",
+    "price": 10000
+  },
+  {
+    "name": "메뉴4",
+    "menuGroup": "메인메뉴",
+    "price": 15000
+  },
+  {
+    "name": "메뉴01",
+    "menuGroup": "사이드메뉴",
+    "price": 8000
+  },
+  {
+    "name": "메뉴02",
+    "menuGroup": "사이드메뉴",
+    "price": 9000
+  },
+  {
+    "name": "메뉴03",
+    "menuGroup": "사이드메뉴",
+    "price": 10000
+  },
+  {
+    "name": "메뉴04",
+    "menuGroup": "사이드메뉴",
+    "price": 15000
+  },
+  {
+    "name": "음료01",
+    "menuGroup": "음료류",
+    "price": 3000
+  },
+  {
+    "name": "음료02",
+    "menuGroup": "음료류",
+    "price": 3000
+  },
+  {
+    "name": "음료03",
+    "menuGroup": "음료류",
+    "price": 3000
+  },
+  {
+    "name": "음료04",
+    "menuGroup": "음료류",
+    "price": 3000
+  },
+  {
+    "name": "기타01",
+    "menuGroup": "기타류",
+    "price": 1000
+  },
+  {
+    "name": "기타02",
+    "menuGroup": "기타류",
+    "price": 1000
+  },
+  {
+    "name": "기타03",
+    "menuGroup": "기타류",
+    "price": 1000
+  },
+  {
+    "name": "기타04",
+    "menuGroup": "기타류",
+    "price": 1000
+  },
+  {
+    "name": "기타05",
+    "menuGroup": "기타류",
+    "price": 1000
+  }
+]
